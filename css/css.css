@@ -1,0 +1,119 @@
+body {
+  
+}
+
+.exp h4,h5,p {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+.education h4,h5,p {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+.other p {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #337AB7;
+}
+
+li {
+  list-style: none;
+}
+
+.center {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+
+aside.aboutpanel {
+  text-align: center;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
+}
+
+img.about {
+  width: 70%;
+  margin-top: 1em;
+  border: white;
+  border-radius: 10px;
+}
+
+h2.about {
+  color: black;
+}
+
+article {
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+summary {
+  font-size: 1.75em;
+  margin-top: 1em;
+  color: #337AB7;
+}
+
+.form-horizontal {
+  margin-top: 3em;
+}
+
+h2.cvh {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+h3.cvh {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+
+h4.cvh {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+p.cvh {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+.cvcol{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+.skills p {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: .5em;
+  padding-bottom: 0;
+}
+
+footer {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 2em;
+}
